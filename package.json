@@ -1,0 +1,16 @@
+{
+  "name": "reshimon",
+  "version": "1.0.0",
+  "description": "Movie listings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1",
+    "mongodb": "^2.2.24",
+    "request": "^2.79.0"
+  }
+}
